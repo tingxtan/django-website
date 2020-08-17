@@ -26,7 +26,7 @@ SECRET_KEY = os.environ['SECRET_KEY_mysite']
 DEBUG = True
 #DEBUG = False # this is not working
 
-ALLOWED_HOSTS = ['127.0.0.1', 'xxxxxxxxx', 'xxxxxx']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://myawesomechatbot.herokuapp.com/']
 
 
 # Application definition
